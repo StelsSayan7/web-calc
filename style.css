@@ -52,7 +52,7 @@ body {
 }
 
 .button:hover{
-    color: #ff0d0d;
+    color: #3498db;
     background-color: coral;   
 }
 
@@ -66,7 +66,7 @@ body {
 }  
    
 .action-btn {
-    color: grey;
+    color: rgb(248, 0, 0);
     font-weight: bold;
 }
 
